@@ -1,0 +1,13 @@
+A Função do Git,permite que varios desenvolvedores trabalhem no mesmo prjeto,em maquinas separadas.
+Guarda todos o histórico do projeto,mostrando quem fez alteração no mesmo.
+Não permite que um usuario altere do outro desenvolvedor.
+É um sistema de controle de versão decentralizado.
+
+git add . adiciona todos os arquivos que estão na pasta
+git add nome do arquivo e sua extenção
+git status mostra o status do arquivo no repositorio 
+git clone quando copiar um url
+ git commit são comando onde você quer monitorar
+git push manda os arquivos para o repositorio remoto
+git ignore serve para adicionar arquivos que seram iguinorados pelo git.
+git pull serve para atualizar o codigo local igual ao codigo remoto.
